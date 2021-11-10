@@ -4,5 +4,7 @@
 - Google Colab
 
 ## Autor
-- Annisaa Ul Mubaarokah
+- Annisaa Ul Mubaarokah 
+Akun github : -annisaaul140 -Annisaa140
 - Riska Septiana Putri
+Akun github : Riskaseptianaa
