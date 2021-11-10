@@ -1,4 +1,6 @@
 # Image-Retrieval-140-175
+![logo](https://user-images.githubusercontent.com/92070240/141109764-2f2e7c74-3e06-40e3-bf49-beb68722a6cc.png)
+
 
 ## Dataset : 
 
@@ -9,7 +11,7 @@ https://www.kaggle.com/olgabelitskaya/flower-color-images
 - Google Colab
 
 ## Autor
-- Annisaa Ul Mubaarokah 
+> Annisaa Ul Mubaarokah 
 - Akun Github : annisaaul140 & Annisaa140
-- Riska Septiana Putri
+> Riska Septiana Putri
 - Akun Github : Riskaseptianaa
