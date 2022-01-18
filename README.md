@@ -1,9 +1,7 @@
 # Image-Retrieval-140-175
 
 ## Dataset : 
-
-https://www.kaggle.com/olgabelitskaya/flower-color-images
-![Captureee](https://user-images.githubusercontent.com/92070240/141109011-1f8c74f0-3ce0-4a87-bfaa-889df6f94727.JPG)
+http://weegee.vision.ucmerced.edu/datasets/landuse.html
 
 ## Jurnal Acuan :
 - Judul   : Scalable Database Indexing and Fast Image Retrieval Based on Deep Learning and Hierarchically Nested Structure Applied to Remote Sensing and Plant Biology
