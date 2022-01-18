@@ -6,9 +6,9 @@ https://www.kaggle.com/olgabelitskaya/flower-color-images
 ![Captureee](https://user-images.githubusercontent.com/92070240/141109011-1f8c74f0-3ce0-4a87-bfaa-889df6f94727.JPG)
 
 ## Jurnal Acuan :
-- Judul   : Identifikasi Citra Jenis Bunga menggunakan Algoritma KNN dengan Ekstrasi Warna HSV dan Tekstur GLCM
-- Author  : Alifa Puteri Bilqis Salsabila , Rika Desma Yunita & Chaerur Rozikin
-- Tahun   : 2021
+- Judul   : Scalable Database Indexing and Fast Image Retrieval Based on Deep Learning and Hierarchically Nested Structure Applied to Remote Sensing and Plant Biology
+- Author  : Pouria Sadeghi-Tehran, Plamen Angelov , Nicolas Virlet and Malcolm J. Hawkesford
+- Tahun   : 2019
 
 ## Tools : 
 - Google Colab
