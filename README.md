@@ -1,5 +1,8 @@
 # Image-Retrieval-140-175
 
+## Judul Project
+Representasi Citra Penginderaan Jauh Menggunakan EfficientNet B1 dengan Aplikasi Content-Based Image Retrieval
+
 ## Dataset : 
 http://weegee.vision.ucmerced.edu/datasets/landuse.html
 
